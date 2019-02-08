@@ -1,0 +1,60 @@
+Time: 11:42:09 AM:  Message: //----------------------------------------------------------------
+Time: 11:42:09 AM:  Message: // File Uploads for: 01-29-2019 11:42 AM
+Time: 11:42:09 AM:  Message: //----------------------------------------------------------------
+Time: 11:42:10 AM:  Message: Connection to sftp session sucessful
+Time: 11:42:10 AM:  Message:  
+Time: 11:42:10 AM:  Message: [1] Uploading file: ExtensionSevenSubtotalTests.cs
+Time: 11:42:10 AM:  Message:    1) Timestamp added to original file name:  ExtensionSevenSubtotalTests_01-29-2019_11.42.09AM.cs
+Time: 11:42:10 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:10 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:10 AM:  Message:  
+Time: 11:42:10 AM:  Message: [2] Uploading file: gb_lowell.png
+Time: 11:42:10 AM:  Message:    1) Timestamp added to original file name:  gb_lowell_01-29-2019_11.42.09AM.png
+Time: 11:42:10 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:10 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:10 AM:  Message:  
+Time: 11:42:10 AM:  Message: [3] Uploading file: sftp todo.txt
+Time: 11:42:10 AM:  Message:    1) Timestamp added to original file name:  sftp todo_01-29-2019_11.42.09AM.txt
+Time: 11:42:11 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:11 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:11 AM:  Message:  
+Time: 11:42:11 AM:  Message: [4] Uploading file: test 2.txt
+Time: 11:42:11 AM:  Message:    1) Timestamp added to original file name:  test 2_01-29-2019_11.42.09AM.txt
+Time: 11:42:11 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:11 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:11 AM:  Message:  
+Time: 11:42:11 AM:  Message: [5] Uploading file: test.txt
+Time: 11:42:11 AM:  Message:    1) Timestamp added to original file name:  test_01-29-2019_11.42.09AM.txt
+Time: 11:42:12 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:12 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:12 AM:  Message:  
+Time: 11:42:43 AM:  Message: //----------------------------------------------------------------
+Time: 11:42:43 AM:  Message: // File Uploads for: 01-29-2019 11:42 AM
+Time: 11:42:43 AM:  Message: //----------------------------------------------------------------
+Time: 11:42:44 AM:  Message: Connection to sftp session sucessful
+Time: 11:42:44 AM:  Message:  
+Time: 11:42:44 AM:  Message: [1] Uploading file: ExtensionSevenSubtotalTests.cs
+Time: 11:42:44 AM:  Message:    1) Timestamp added to original file name:  ExtensionSevenSubtotalTests_01-29-2019_11.42.43AM.cs
+Time: 11:42:45 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:45 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:45 AM:  Message:  
+Time: 11:42:45 AM:  Message: [2] Uploading file: gb_lowell.png
+Time: 11:42:45 AM:  Message:    1) Timestamp added to original file name:  gb_lowell_01-29-2019_11.42.43AM.png
+Time: 11:42:45 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:45 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:45 AM:  Message:  
+Time: 11:42:45 AM:  Message: [3] Uploading file: sftp todo.txt
+Time: 11:42:45 AM:  Message:    1) Timestamp added to original file name:  sftp todo_01-29-2019_11.42.43AM.txt
+Time: 11:42:45 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:45 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:45 AM:  Message:  
+Time: 11:42:45 AM:  Message: [4] Uploading file: test 2.txt
+Time: 11:42:45 AM:  Message:    1) Timestamp added to original file name:  test 2_01-29-2019_11.42.43AM.txt
+Time: 11:42:46 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:46 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:46 AM:  Message:  
+Time: 11:42:46 AM:  Message: [5] Uploading file: test.txt
+Time: 11:42:46 AM:  Message:    1) Timestamp added to original file name:  test_01-29-2019_11.42.43AM.txt
+Time: 11:42:46 AM:  Message:    2) File has been successfully transferred: TRUE
+Time: 11:42:46 AM:  Message:    3) File has been successfully backed up and removed from upload folder
+Time: 11:42:46 AM:  Message:  
