@@ -1,4 +1,6 @@
-# SFTP-Project; Start Date: 1-24-2019
+# SFTP-Project
+<br>
+# Start Date: 1-24-2019
 A project that sets up  SFTP for files from a local location to a remote location with added timestamp, checks if successful, and then backs up original file to a backup location and removes from upload folder upon success.
 
 --------------------
